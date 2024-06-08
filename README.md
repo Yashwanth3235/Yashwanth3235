@@ -8,6 +8,6 @@
 
 😄 Pronouns: He/Him
 
-- ⚡ Fun fact: ...I'm very interested to learn more skills with new friends, i'm very interested to face new things in my life. 
+⚡ I'm very interested to learn more skills with new friends, i'm very interested to face new things in my life. 
 
 
