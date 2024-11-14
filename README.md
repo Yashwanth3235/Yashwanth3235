@@ -4,7 +4,7 @@
 
 💞️ I’m looking to collaborate on open-source projects related to sustainability and tech for social good.
 
-📫 Feel free to reach out via DM on mail or through my email yashwanth3235@email.com.
+📫 Feel free to reach out via DM on mail or through my email yaswanthkumarm123@gmail.com
 
 😄 Pronouns: He/Him
 
