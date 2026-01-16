@@ -18,14 +18,14 @@
 - 🌱 Always learning and improving
 - 📍 India | Open to opportunities
 
-## 🛠 Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/Java-orange?logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-blue?logo=react"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-green?logo=springboot"/>
-  <img src="https://img.shields.io/badge/MySQL-blue?logo=mysql"/>
-  <img src="https://img.shields.io/badge/Git-black?logo=git"/>
-</p>
+## 🛠 Technical Skills
+
+- **Programming Languages:** Java, SQL, JavaScript  
+- **Frontend Technologies:** React.js, HTML, CSS  
+- **Backend Technologies:** Spring Boot, REST APIs  
+- **Databases:** MySQL  
+- **Tools & Platforms:** Git, GitHub, Postman
+
 
 ## 📌 Featured Projects
 - 🏡 **Real Estate Management System** – Role-based full stack application
