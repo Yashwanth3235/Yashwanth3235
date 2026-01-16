@@ -9,5 +9,4 @@
     <img src="https://img.shields.io/badge/GitHub-black?logo=github"/>
   </a>
 </p>
- <div style="text-align: Center">Email: yaswanthkumarm123@gmail.com</div>
 <hr/>
