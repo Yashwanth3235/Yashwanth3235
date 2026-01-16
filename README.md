@@ -20,11 +20,46 @@
 
 ## 🛠 Technical Skills
 
-- **Programming Languages:** Java, SQL, JavaScript  
-- **Frontend Technologies:** React.js, HTML, CSS  
-- **Backend Technologies:** Spring Boot, REST APIs  
-- **Databases:** MySQL  
-- **Tools & Platforms:** Git, GitHub, Postman
+### Frontend
+- React.js
+- JavaScript (ES6+)
+- HTML5, CSS3
+- Bootstrap
+- Axios
+- Responsive UI Design
+
+### Backend
+- Java 8+
+- Spring Boot
+- Spring MVC
+- Hibernate
+- JPA
+- RESTful APIs
+- Exception Handling
+
+### Database
+- MySQL
+- PostgreSQL  
+- CRUD Operations, Joins, Indexing, Stored Procedures
+
+### Tools
+- Git, GitHub
+- Postman
+- Maven
+- VS Code
+
+### Core Concepts
+- Object-Oriented Programming (OOP)
+- JWT Authentication
+- MVC Architecture
+- API Security
+- Agile & SDLC
+
+### Soft Skills
+- Problem Solving
+- Time Management
+- Team Collaboration
+- Quick Learning
 
 
 ## 📌 Featured Projects
@@ -34,4 +69,5 @@
 ⬇️ Check pinned repositories for details.
 
 ## 📫 Contact Me
-- 📧 Email: yaswanthkumarm123@gmail.com
+-  Email: yaswanthkumarm123@gmail.com
+- Mobile No. +91 7780275384
