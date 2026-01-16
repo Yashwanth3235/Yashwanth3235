@@ -18,48 +18,16 @@
 - 🌱 Always learning and improving
 - 📍 India | Open to opportunities
 
-## 🛠 Technical Skills
+## 🛠 Key Skills
 
-### Frontend
-- React.js
-- JavaScript (ES6+)
-- HTML5, CSS3
-- Bootstrap
-- Axios
-- Responsive UI Design
+- **Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3  
+- **Backend:** Java, Spring Boot, REST APIs  
+- **Database:** MySQL  
+- **Security & Concepts:** JWT Authentication, MVC Architecture, OOP  
+- **Tools:** Git, GitHub, Postman
 
-### Backend
-- Java 8+
-- Spring Boot
-- Spring MVC
-- Hibernate
-- JPA
-- RESTful APIs
-- Exception Handling
-
-### Database
-- MySQL
-- PostgreSQL  
-- CRUD Operations, Joins, Indexing, Stored Procedures
-
-### Tools
-- Git, GitHub
-- Postman
-- Maven
-- VS Code
-
-### Core Concepts
-- Object-Oriented Programming (OOP)
-- JWT Authentication
-- MVC Architecture
-- API Security
-- Agile & SDLC
-
-### Soft Skills
-- Problem Solving
-- Time Management
-- Team Collaboration
-- Quick Learning
+- ## 🛠 Tech Stack
+Java | Spring Boot | React.js | REST APIs | MySQL | Git
 
 
 ## 📌 Featured Projects
