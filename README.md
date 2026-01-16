@@ -10,3 +10,29 @@
   </a>
 </p>
 <hr/>
+
+## 👨‍💻 About Me
+- 🎓 MCA Graduate
+- 💻 Java Full Stack Developer
+- 🔧 React.js, Spring Boot, REST APIs
+- 🌱 Always learning and improving
+- 📍 India | Open to opportunities
+
+## 🛠 Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/Java-orange?logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-blue?logo=react"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-green?logo=springboot"/>
+  <img src="https://img.shields.io/badge/MySQL-blue?logo=mysql"/>
+  <img src="https://img.shields.io/badge/Git-black?logo=git"/>
+</p>
+
+## 📌 Featured Projects
+- 🏡 **Real Estate Management System** – Role-based full stack application
+- 🏨 **Hotel Booking System** – Booking & admin management platform
+
+⬇️ Check pinned repositories for details.
+
+## 📫 Contact Me
+- 📧 Email: yaswanthkumarm123@gmail.com
+- 🔗 LinkedIn: https://linkedin.com
