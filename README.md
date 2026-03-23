@@ -33,7 +33,8 @@ Java | Spring Boot | React.js | REST APIs | MySQL | Git
 ## 📌 Featured Projects
 - 🏡 **Real Estate Management System** – Role-based full stack application
 - 🏨 **Hotel Booking System** – Booking & admin management platform
-- ✈️ **Travel Planner** – Travel search and booking platform integrating external APIs /n
+- ✈️ **Travel Planner** – Travel search and booking platform integrating external APIs
+  
 ⬇️ Check pinned repositories for details.
 
 ## 📫 Contact Me
